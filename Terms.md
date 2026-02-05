@@ -52,7 +52,7 @@ You may submit content to Joul, including meal data, notes, and other informatio
 
 You retain ownership of your User Content, but grant us a worldwide, non‑exclusive, royalty‑free license to use, store, process, and anonymize it as necessary to operate and improve the service (for example, to generate your insights, maintain backups, and improve our models).
 
-We handle your data in accordance with our [Privacy Policy]([LINK TO PRIVACY POLICY]).
+We handle your data in accordance with our [Privacy Policy]([https://yogeshsharma140781.github.io/joul-legal/Privacy.html]).
 
 ## 7. AI‑Generated Insights
 
