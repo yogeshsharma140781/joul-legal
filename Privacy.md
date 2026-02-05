@@ -1,6 +1,6 @@
 # Privacy Policy
 
-_Last updated: 4 Feb 2026
+Last updated: 4 Feb 2026
 
 This Privacy Policy explains how Joul (“Joul”, “we”, “us”, or “our”) collects, uses, and shares information about you when you use the Joul mobile application and related services (the “Service”).
 
