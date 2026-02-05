@@ -1,6 +1,6 @@
 # Terms and Conditions
 
-_Last updated: [DATE]_
+_Last updated: 4 Feb 2026_
 
 These Terms and Conditions (“Terms”) govern your use of the Joul mobile application and related services (“Joul”, “we”, “us”, or “our”). By downloading, accessing, or using Joul, you agree to be bound by these Terms. If you do not agree, do not use Joul.
 
@@ -117,14 +117,14 @@ Your continued use of Joul after changes become effective constitutes your accep
 
 ## 15. Governing Law and Dispute Resolution
 
-These Terms are governed by the laws of [YOUR COUNTRY/STATE], without regard to its conflict of law principles.
+These Terms are governed by the laws of the Netherlands, without regard to its conflict of law principles.
 
-Any disputes arising out of or relating to these Terms or Joul will be resolved exclusively in the courts located in [YOUR CITY/REGION], unless applicable law requires otherwise.
+Any disputes arising out of or relating to these Terms or Joul will be resolved exclusively in the courts located in the Netherlands, unless applicable law requires otherwise.
 
 ## 16. Contact Us
 
 If you have questions about these Terms, you can contact us at:
 
 **Joul Support**  
-Email: [support@yourdomain.com]  
-[Physical address, if applicable]
+Email: translay.ai@gmail.com  
+
