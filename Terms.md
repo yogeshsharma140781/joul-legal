@@ -126,5 +126,5 @@ Any disputes arising out of or relating to these Terms or Joul will be resolved 
 If you have questions about these Terms, you can contact us at:
 
 **Joul Support**  
-Email: translay.ai@gmail.com  
+Email: support@joulapp.com  
 
