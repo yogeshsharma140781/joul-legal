@@ -180,4 +180,4 @@ Your continued use of the Service after any changes become effective constitutes
 If you have any questions or concerns about this Privacy Policy or our data practices, you can contact us at:
 
 **Joul Support**  
-Email: translay.ai@gmail.com
+Email: support@joulapp.com
